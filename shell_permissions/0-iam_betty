@@ -1,4 +1,3 @@
 #!/bin/bash
 #create user betty
-sudo useradd betty
 su betty
